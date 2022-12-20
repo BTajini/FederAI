@@ -71,6 +71,9 @@ The structure of the documentation is shown below :
         * [Future Work & Concepts](./documentation/insights.md) 
  * **FederAI: Federated Data Mesh Implementation**
    * [Data Mesh Implementation (Ongoing)](./documentation/data-mesh-implementation.md)
+ * **FederAI and Machine Learning Implementation**
+   * [Federated machine learning (Fed ML) based on a Data Mesh platform (Ongoing)](./documentation/fed-ml-data-mesh-implementation.md)
+    
 
 [Back to top](#)
 
